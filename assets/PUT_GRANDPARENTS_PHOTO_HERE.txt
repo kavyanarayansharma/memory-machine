@@ -1,0 +1,1 @@
+Copy your original photograph into this folder and rename it to grandparents-photo.jpg before publishing the repository.
